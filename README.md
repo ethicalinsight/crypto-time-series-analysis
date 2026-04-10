@@ -23,7 +23,7 @@ The project integrates real-time and historical cryptocurrency datasets, builds 
   *Tasks:* Data Collection & API Integration, SQL Database Design & Data Warehousing, Data Cleaning & SQL Analytics  
   *Responsibilities:*  
   - Extracted real-time & historical crypto data from APIs (CoinGecko, Binance, Yahoo Finance).
-  - - # Task 2: SQL Database Design & Data Warehousing  
+  - Task 2: SQL Database Design & Data Warehousing  
 References used:  
 - [Link 1](https://colab.research.google.com/drive/1WSe6BZx4jid6-aiFX6iae4T0K7haOOPo?usp=sharing)
 - [Link 2](https://colab.research.google.com/drive/1mhlhDM2waw39Lbe2dkGat4X0CFdlccWU?usp=drive_link)   
