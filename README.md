@@ -22,17 +22,21 @@ The project integrates real-time and historical cryptocurrency datasets, builds 
 - **Vikram Singh Kushwaha**  
   *Tasks:* Data Collection & API Integration, SQL Database Design & Data Warehousing, Data Cleaning & SQL Analytics  
   *Responsibilities:*  
-  - Extracted real-time & historical crypto data from APIs (CoinGecko, Binance, Yahoo Finance).  
+  - Extracted real-time & historical crypto data from APIs (CoinGecko, Binance, Yahoo Finance).
+  - - # Task 2: SQL Database Design & Data Warehousing  
+References used:  
+- [Link 1](https://colab.research.google.com/drive/1WSe6BZx4jid6-aiFX6iae4T0K7haOOPo?usp=sharing)
+- [Link 2](https://colab.research.google.com/drive/1mhlhDM2waw39Lbe2dkGat4X0CFdlccWU?usp=drive_link)   
   - Stored raw JSON/CSV data into SQL database tables.  
   - Automated daily data refresh using scheduled queries.  
   - Designed normalized tables (Crypto_Info, Price_Data, Volume_Data, Sentiment_Data).  
   - Created relationships and indexes for optimized querying.  
-  - Built views for clean reporting datasets.  
+  - Built views for clean reporting datasets. 
   - Handled missing values, duplicates, and outliers using SQL queries.  
   - Created calculated columns (Daily Return %, Moving Average, Volatility Index).  
   - Wrote complex SQL queries for trend and volatility analysis.  
   *Output:* ✔ Structured SQL database, optimized schema, and cleaned dataset ready for analytics  
-
+  
 - **Shambhavi Srivastava**  
   *Role:* Team Coordination & Power BI Dashboard Development  
   *Responsibilities:*  
